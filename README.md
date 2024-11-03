@@ -21,6 +21,7 @@ Frontend: Java Swing
 Backend: Java, JDBC for database connectivity
 Database: MySQL
 ## Folder Structure
+```plaintext
 College-Directory-Application/
 ├── build/
 │   └── classes/
@@ -49,10 +50,12 @@ College-Directory-Application/
 ├── build.xml
 ├── manifest.mf
 └── README.md
+```
+
 ## Getting Started
 ### Clone the Repository:
 
-git clone https://github.com/madhumaddy77/College-Directory-Application.git
+git clone : https://github.com/madhumaddy77/College-Directory-Application.git
 ### Database Setup:
 
 Create a MySQL database called college_directory.
