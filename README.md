@@ -66,7 +66,7 @@ Open the project in an IDE (e.g., NetBeans or Eclipse).
 Configure any required database credentials in the Conn or DbUtils classes.
 Execute Project.class to launch the application.
 ## Demo Video
-For a demonstration of the application’s features, watch the demo video on YouTube.
+For a demonstration of the application’s features, watch the demo video Here: 
 
 ## Contributions
 Contributions are welcome! Please open an issue or submit a pull request if you would like to improve the project.
