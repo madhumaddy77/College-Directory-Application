@@ -67,7 +67,7 @@ Configure any required database credentials in the Conn or DbUtils classes.
 Execute Project.class to launch the application.
 ## Demo Video
 - Click to view the demonstration of the application’s features.
-[![Demo Video](Home Screen.png)](https://drive.google.com/file/d/1-cCS9NmqbWG4g-RLFzy9AylUo8FyA7PA/view?usp=drive_link)
+[![Demo Video](HomeScreen.png)](https://drive.google.com/file/d/1-cCS9NmqbWG4g-RLFzy9AylUo8FyA7PA/view?usp=drive_link)
 
 
 ## Contributions
