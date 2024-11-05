@@ -69,6 +69,8 @@ Execute Project.class to launch the application.
 - Click to view the demonstration of the application’s features.
 [![Demo Video](HomeScreen.png)](https://drive.google.com/file/d/1-cCS9NmqbWG4g-RLFzy9AylUo8FyA7PA/view?usp=drive_link)
 
+Demo vedio link: https://drive.google.com/file/d/1-cCS9NmqbWG4g-RLFzy9AylUo8FyA7PA/view?usp=drive_link
+
 
 ## Contributions
 Contributions are welcome! Please open an issue or submit a pull request if you would like to improve the project.
